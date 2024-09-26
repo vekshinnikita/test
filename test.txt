@@ -2,3 +2,7 @@ hello
 my
 dear
 field
+def func1():
+    dfsdf
+
+func1()
