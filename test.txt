@@ -3,11 +3,3 @@ hello
 my
 dear
 field
-def func1():
-    dfsdf
-
-def func2():
-    dfsdf
-
-func1()
-func2()
